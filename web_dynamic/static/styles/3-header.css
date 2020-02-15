@@ -12,3 +12,21 @@ header {
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
 }
+/** Api Div
+ */
+header div {
+    float: right;
+    background-color: #cccccc;
+	border: 1px;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+	margin-right: 20px;
+}
+
+/** Background colour
+ */
+.available {
+	background-color: #ff545f;		
+}
