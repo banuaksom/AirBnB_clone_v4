@@ -8,7 +8,7 @@ $(document).ready(function () {
         delete amens[$(this).data('id')];
       }
     });
-    if (amens) {
+    if (Object.values(amens).length > 0) {
       $('.amenities h4').text(Object.values(amens).join(', '));
     } else {
       $('.amenities h4').html('&nbsp');
