@@ -231,7 +231,7 @@ github repo
 
 [MJ Johnson](https://github.com/mj31508)
 
-[David John Coleman II]http://www.davidjohncoleman.com/)
+[David John Coleman II](http://www.davidjohncoleman.com/)
 
 [Kimberly Wong](https://github.com/kjowong)
 
