@@ -1,8 +1,17 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+![Image of our Airbnb Logo](https://pbs.twimg.com/media/EJI6yBEWkAAZD4H?format=jpg&name=4096x4096)
 
-# AirBnB Clone: Phase # 3
+# AirBnB Clone: Web Dynamic
 
-: API with Swagger
+## Objectives
+
+* How cool it is to request your own API
+* How to modify an HTML element style
+* How to get and update an HTML element content
+* How to modify the DOM
+* How to make a GET request with jQuery Ajax
+* How to make a POST request with jQuery Ajax
+* How to listen/bind to DOM events
+* How to listen/bind to user events
 
 ## Description
 
@@ -212,11 +221,23 @@ github repo
 
 ## Authors
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+### V4
+
+[Banu Sapakova](https://github.com/banuaksom)
+
+[Brent Muha](https://github.com/bmuha1)
+
+### Earlier versions
+
+[MJ Johnson](https://github.com/mj31508)
+
+[David John Coleman II](http://www.davidjohncoleman.com/)
+
+[Kimberly Wong](https://github.com/kjowong)
+
+[Carrie Ybay](https://github.com/hicarrie)
+
+[Jared Heck](https://github.com/jarehec)
 
 ## License
 
