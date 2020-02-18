@@ -13,6 +13,15 @@
 * How to listen/bind to DOM events
 * How to listen/bind to user events
 
+## Tasks
+0. Last clone! 
+- Update the repository name to AirBnB_clone_v4
+- Update the README.md:
+- Add yourself as an author of the project
+- Add new information about your new contribution
+1. Cash only
+- Write a script that starts a Flask web application
+
 ## Description
 
 Project attempts to clone the the AirBnB application and website, including the
