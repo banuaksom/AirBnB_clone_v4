@@ -35,6 +35,17 @@ Create a new template 2-hbnb.html
 Write a javascript script (static/scripts/2-hbnb.js):
 - Based on 1-hbnb.js
 - Request http://0.0.0.0:5001/api/v1/status/
+If in the status is “OK”, add the class available to the DIV#api_status
+Otherwise, remove the class available to the DIV#api_status
+4. Fetch places
+Replace the route 2-hbnb with 3-hbnb in the file 3-hbnb.py
+Create a new template 3-hbnb.html
+Write a Javascript script (static/scripts/3-hbnb.js):
+- Based on 2-hbnb.js
+- Request http://0.0.0.0:5001/api/v1/places_search/
+Send a POST request with Content-Type: application/json and an empty dictionary in the body - cURL version: curl "http://0.0.0.0:5001/api/v1/places_search" -XPOST -H "Content-Type: application/json" -d '{}'
+Loop into the result of the request and create an ARTICLE tag representing a Place in the SECTION.places
+
 
 ## Description
 
