@@ -27,7 +27,14 @@ Create a new template 1-hbnb.html and update it
 - Write a Javascript script (static/scripts/1-hbnb.js):
 - Your script must be executed only when DOM is loaded
 - You must use jQuery
-- Listen for changes on each INPUT checkbox tag:
+- Listen for changes on each INPUT checkbox tag
+3. API status 
+Update the API entry point by replacing the current CORS
+Change the route 1-hbnb to 2-hbnb in the file 2-hbnb.py
+Create a new template 2-hbnb.html
+Write a javascript script (static/scripts/2-hbnb.js):
+- Based on 1-hbnb.js
+- Request http://0.0.0.0:5001/api/v1/status/
 
 ## Description
 
