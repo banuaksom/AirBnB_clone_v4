@@ -21,6 +21,13 @@
 - Add new information about your new contribution
 1. Cash only
 - Write a script that starts a Flask web application
+2. Select some Amenities to be comfortable!
+Replace the route 0-hbnb with 1-hbnb in the file 1-hbnb.py
+Create a new template 1-hbnb.html and update it
+- Write a Javascript script (static/scripts/1-hbnb.js):
+- Your script must be executed only when DOM is loaded
+- You must use jQuery
+- Listen for changes on each INPUT checkbox tag:
 
 ## Description
 
