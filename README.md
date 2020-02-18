@@ -45,7 +45,12 @@ Write a Javascript script (static/scripts/3-hbnb.js):
 - Request http://0.0.0.0:5001/api/v1/places_search/
 Send a POST request with Content-Type: application/json and an empty dictionary in the body - cURL version: curl "http://0.0.0.0:5001/api/v1/places_search" -XPOST -H "Content-Type: application/json" -d '{}'
 Loop into the result of the request and create an ARTICLE tag representing a Place in the SECTION.places
-
+5. Filter places by Amenity
+Replace the route 3-hbnb with 4-hbnb in the file 4-hbnb.py
+Create a new template 4-hbnb.html
+Write a Javascript script (static/scripts/4-hbnb.js):
+- Based on 3-hbnb.js
+- When the BUTTON tag is clicked, a new POST request to places_search should be made with the list of Amenities checked
 
 ## Description
 
